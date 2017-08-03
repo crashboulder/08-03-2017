@@ -1,0 +1,3 @@
+text-color: rgb(104,104,110) HEX_CODE: #68686e
+background: rgb(222, 222, 239) HEX_CODE: #dedeef
+
